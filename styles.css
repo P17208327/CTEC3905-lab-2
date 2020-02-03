@@ -1,0 +1,21 @@
+nav {
+  display: flex;
+  background: purple;
+  padding: 1em;
+  justify-content: center;
+}
+nav a {
+  background: green;
+  padding: 1em;
+  margin: 0 1em;
+  transition: 2s;
+}
+
+nav a:hover {
+  background-color: blue;
+  width: 0 1em;
+}
+
+body {
+  margin: ;
+}
